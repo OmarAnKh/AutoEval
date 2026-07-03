@@ -17,6 +17,7 @@ Manual rubric scoring is expensive, slow, and highly domain-specific. Evalora ad
 ## Demo Video
 This section is reserved for the project walkthrough video.
 
+https://github.com/user-attachments/assets/cba7afff-e50b-413e-9be3-84f9ce336355
 
 
 
