@@ -14,6 +14,12 @@ Manual rubric scoring is expensive, slow, and highly domain-specific. Evalora ad
 - LoRA-based efficient fine-tuning
 - End-to-end pipeline from dataset to trained evaluator
 
+## Demo Video
+This section is reserved for the project walkthrough video.
+
+
+
+
 ## Project Structure
 ```
 Evalora/
@@ -94,11 +100,11 @@ uvicorn src.api.main:app --reload
 ```
 
 ## Frontend
-The UI lives in the interface/ folder and talks to the FastAPI backend.
+The UI lives in the ui/ folder and talks to the FastAPI backend.
 
 **Install dependencies**
 ```bash
-cd interface
+cd ui
 npm install
 ```
 
