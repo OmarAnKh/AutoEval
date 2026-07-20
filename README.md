@@ -151,3 +151,8 @@ This is a two-person project:
 - Partial-save mode for invalid JSONL uploads
 - API deployment for real-time scoring
 - Larger base models and domain-specific adapters
+
+  
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
